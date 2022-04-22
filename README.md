@@ -1,1 +1,1 @@
-# Geradorsenhas
+# Gerador-de-senhas
